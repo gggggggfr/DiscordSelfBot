@@ -1,0 +1,10 @@
+future==0.16.0
+regex==2017.7.28
+os
+platform
+re
+sys
+webbrowser
+time
+easygui
+pymsgbox
