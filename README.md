@@ -4,4 +4,4 @@
 PIP INSTALL ALL REQUIREMENTS IN REQUIREMENTS.TXT
 
 THEN RUN THE .PY FILE AND INPUT YOUR TOKEN
-![Imgur Image](https://imgur.com/a/TfzhbnP.png)
+![Imgur Image](https://i.imgur.com/c2e21ES.png)
